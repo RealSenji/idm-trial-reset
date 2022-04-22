@@ -1,0 +1,4 @@
+Goto edit registry and locate the below key and delete it. Or create a script to do it automatically every 30 days or so.
+
+HKEY_USERS\S-1-5-21-xxxx_yyyy_zzz_Classes\WOW6432Node\CLSID{07999AC3-058B-40BF-984F-69EB1E554CA7}
+24
